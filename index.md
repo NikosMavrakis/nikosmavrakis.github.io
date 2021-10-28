@@ -1,6 +1,7 @@
 ---
 title: Nikos Mavrakis
 description: Robotics researcher, currently at University of York
+layout: default
 ---
 
 
