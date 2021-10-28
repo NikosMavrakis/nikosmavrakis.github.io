@@ -1,7 +1,13 @@
 ---
 title: Nikos Mavrakis
-description: Description
+description: Robotics researcher
 ---
 
 
-## Welcome!
+# Welcome to my page!
+
+# About me
+
+I am a robotics researcher with a passion for space
+
+
