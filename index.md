@@ -1,5 +1,5 @@
 ---
-title: Nikos Mavrakis Website
+title: Nikos Mavrakis
 description: Description
 ---
 
