@@ -1,3 +1,5 @@
+---
 layout: page
-title: "Publications"
+title: Publications
 permalink: /https://nikosmavrakis.github.io/publications/
+---
