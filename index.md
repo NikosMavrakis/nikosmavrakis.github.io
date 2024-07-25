@@ -1,3 +1,9 @@
+<div class="reveal">
+    <div class="slides">
+        <section data-markdown="index.md" data-background-image="/assets/img/moon.jpg"></section>
+    </div>
+</div>
+
 Welcome to my website!
 
 
