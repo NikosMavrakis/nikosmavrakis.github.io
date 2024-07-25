@@ -1,9 +1,16 @@
-<div class="reveal">
-    <div class="slides">
-        <section data-markdown="index.md" data-background-image="/assets/img/moon.jpg"></section>
-    </div>
-</div>
+<html>
+    <head>
+    <style>
+    body {
+      background-image: url('{{ site.baseurl }}/assets/img/moon.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+    </style>
+    </head>
 
+    </html>
 Welcome to my website!
 
 
