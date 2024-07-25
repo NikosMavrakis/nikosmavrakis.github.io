@@ -2,18 +2,16 @@ Welcome to my website!
 
 
 
-[![Google Scholar](/assets/img/scholar.png)](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
-
 <a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
-  <img src="/assets/img/scholar.png" width="100" />
+  <img src="/assets/img/scholar.png" width="50" />
+</a>
+<a href="https://www.linkedin.com/in/nikos-mavrakis-410872108/">
+  <img src="/assets/img/linkedin.png" width="50" />
+</a>
+<a href="https://orcid.org/0000-0002-3138-2633">
+  <img src="/assets/img/orcid.png" width="50" />
 </a>
 
-
-[Google Scholar](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
-
-[LinkedIn](https://www.linkedin.com/in/nikos-mavrakis-410872108/)
-
-[ORCiD](https://orcid.org/0000-0002-3138-2633)
 
 
 ## Short Bio
