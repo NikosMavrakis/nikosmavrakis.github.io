@@ -2,10 +2,12 @@ Welcome to my website!
 
 
 
-[![Google Scholar](/assets/img/scholar.png)](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
+[![Google Scholar](/assets/img/scholar.png =100x100)](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
 
 [Google Scholar](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
+
 [LinkedIn](https://www.linkedin.com/in/nikos-mavrakis-410872108/)
+
 [ORCiD](https://orcid.org/0000-0002-3138-2633)
 
 
