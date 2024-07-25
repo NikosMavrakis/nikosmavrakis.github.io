@@ -2,7 +2,12 @@ Welcome to my website!
 
 
 
-[![Google Scholar](/assets/img/scholar.png =100x100)](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
+[![Google Scholar](/assets/img/scholar.png)](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
+
+<a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
+  <img src="/assets/img/scholar.png" width="100" />
+</a>
+
 
 [Google Scholar](https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao)
 
