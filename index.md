@@ -29,17 +29,17 @@ Welcome to my website (Under Construction)!
 
 
 
-## Short Bio
+# Short Bio
 From September 2024, I will be joining Durham University and the newly established [Space Research Centre](https://www.durham.ac.uk/research/institutes-and-centres/space-research-centre/) as an Assistant Professor. I am currently an Assistant Professor in Space Engineering, at the [School of Metallurgy and Materials](https://www.birmingham.ac.uk/schools/metallurgy-materials), University of Birmingham, UK. My research interests include vision-based robotic grasping and manipulation, and applications in space robotics. I was a JPL Postdoctoral Fellow at the [Mobility and Robotics Section (347)](https://www-robotics.jpl.nasa.gov/) at NASA Jet Propulsion Laboratory, working on machine vision and pose estimation for the Mars Sample Return Mission. I was also a Research Fellow at the [School of Electronic Engineering](https://www.york.ac.uk/physics-engineering-technology/), University of York, UK, working on evolultionary robotics and evolvable gripper morphologies for robotic grasping. I was also a Research Fellow at [Surrey Space Centre](https://www.surrey.ac.uk/surrey-space-centre), University of Surrey, UK, researching visually-guided grasp synthesis for orbital robotics.
 
 
-## Publications 
+# Publications 
 
-# Book Chapters
+### Book Chapters
 * **N. Mavrakis**, Y. Gao, “Autonomous Robotic Grasping in Orbital Environment”, in Space Robotics and Autonomous Systems: Technolo-
 gies, Advances and Applications, IET, 2021.
 
-# Peer-reviewed Journals
+### Peer-reviewed Journals
 * M. Farell, **N.Mavrakis**, A. Ferrando, C. Dixon, Y. Gao. ”Formal Modelling and Runtime Verification of Autonomous Grasping for Active Debris
 Removal”, Frontiers in Robotics and AI, 8, 2021
 * **N. Mavrakis**, Z. Hao, Y. Gao. On-Orbit Robotic Grasping of a Spent Rocket Stage: Grasp Stability Analysis and Experimental Results,
@@ -49,7 +49,7 @@ Robotics and Autonomous Systems, 124, p.103374., 2020
 * L. Baronti, M. Alston, **N. Mavrakis**, A. M. Ghalamzan E, M. Castellani, ”Primitive Shape Fitting in Point Clouds Using the Bees Algorithm”, Applied
 Sciences, 9(23), p.5198., 2019
 
-# Conferences
+### Conferences
 
 * **N. Mavrakis**, T-H. Pham, P. Bailey. ”Pose Estimation for Rover-to-Lander Tube Transfer for Mars Sample Return”, IEEE Aerospace Con-
 ference, 2023.
