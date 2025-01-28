@@ -1,3 +1,7 @@
+layout: page
+title: "Fully Funded PhD position in Space Robotics"
+permalink: /https://nikosmavrakis.github.io/phd_sparc/
+
 Application Deadline: 24 March 2025
 Notes on Funding
 This position will fully cover UK/Home fees. Overseas students that wish to apply, need to be able to finance the balance of the tuition fees. The position will offer a stipend at UKRI rate (currently at £19,237 per year).
