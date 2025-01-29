@@ -1,10 +1,11 @@
 ---
 layout: page
+title: Open Positions
 permalink: /open_positions/
 author: Nikos Mavrakis
 ---
 
-## Fully Funded\* PhD position in Space Robotics
+### Fully Funded\* PhD position in Space Robotics
 
 ### Application Deadline: 24 March 2025
 
