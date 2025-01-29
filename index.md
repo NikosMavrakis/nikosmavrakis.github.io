@@ -16,7 +16,7 @@
 Welcome to my website (Under Construction)!
 
 
-<img src="/assets/img/pic_mavrakis.jpg" align="left" style="max-width:200px;"/>
+<img src="/assets/img/pic_mavrakis.jpg" align="left" style="max-width:200px;" margin-left="15px"/>
  Assistant Professor, Durham Space Research Centre, Department of Computer Science, Durham University, UK
 
 <a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
