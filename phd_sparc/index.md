@@ -1,8 +1,8 @@
----
-layout: page
-title: "Fully Funded PhD position in Space Robotics"
-permalink: https://nikosmavrakis.github.io/phd_sparc
----
+#---
+#layout: page
+#title: "Fully Funded PhD position in Space Robotics"
+#permalink: https://nikosmavrakis.github.io/phd_sparc
+#---
 
 Application Deadline: 24 March 2025
 Notes on Funding
