@@ -23,6 +23,8 @@
     </style>
 </head>
 
+<style>body {text-align: justify}</style>
+
 Welcome to my website (Under Construction)!
 
 
