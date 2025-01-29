@@ -1,4 +1,5 @@
 title: Dr Nikos Mavrakis
 description: Assistant Professor, Durham Space Research Centre, Department of Computer Science, Durham University, UK
 logo: /assets/img/pic_mavrakis.jpg
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+#theme: jekyll-theme-minimal

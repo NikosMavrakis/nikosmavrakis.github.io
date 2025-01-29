@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Fully Funded PhD position in Space Robotics"
+title: Fully Funded PhD position in Space Robotics
 permalink: /phd_sparc/
+author: Nikos Mavrakis
 ---
 
 # Fully Funded PhD position in Space Robotics
@@ -48,7 +49,7 @@ The Department is also part of the newly established Durham Space Research Centr
 For more information, eligibility, and the application process please visit https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/
 To have a pre-application discussion, please contact Dr Nikos Mavrakis at nikolaos.mavrakis@durham.ac.uk with an email subject “Fully funded PhD in Space Robotics”. In your email you should include a CV, transcripts of degrees, and a 1-page research proposal (including bibliography) that explains which challenge you wish to address and what topic you wish to apply it on. 
 
-# Useful Links
+## Useful Links
 * SPARC : https://www.durham.ac.uk/research/institutes-and-centres/space-research-centre/
 * Department of Computer Science: https://www.durham.ac.uk/departments/academic/computer-science/
 * VIviD group: https://vivid.webspace.durham.ac.uk/
