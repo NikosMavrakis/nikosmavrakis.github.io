@@ -1,7 +1,17 @@
 title: Dr Nikos Mavrakis
-description: Assistant Professor, Durham Space Research Centre, Department of Computer Science, Durham University, UK
+description: Assistant Professor - Robotics and Space Engineering  
+ Durham Space Research Centre  
+ Department of Computer Science  
+ Durham University  
+ UK  
 logo: /assets/img/pic_mavrakis.jpg
 remote_theme: jekyll/minima
 
 plugins:
 - jekyll-remote-theme 
+
+author:
+  name: Nikos Mavrakis
+  email: nikolaos.mavrakis[at]durham.ac.uk
+
+
