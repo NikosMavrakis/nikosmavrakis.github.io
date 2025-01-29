@@ -14,6 +14,7 @@
 </html>
 -->
 
+<!--Image wrapping and margin-->
 <head>
     <style>
         .image-left {
@@ -23,7 +24,9 @@
     </style>
 </head>
 
+<!--Aligning text (justify)-->
 <style>body {text-align: justify}</style>
+
 
 Welcome to my website (Under Construction)!
 
@@ -32,13 +35,13 @@ Welcome to my website (Under Construction)!
  Assistant Professor, Durham Space Research Centre, Department of Computer Science, Durham University, UK
 
 <a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
-  <img src="/assets/img/scholar.png" height="50" />
+  <img src="/assets/img/google_scholar.png" height="50" />
 </a>
 <a href="https://www.linkedin.com/in/nikos-mavrakis-410872108/">
   <img src="/assets/img/linkedin.png" height="50" />
 </a>
 <a href="https://orcid.org/0000-0002-3138-2633">
-  <img src="/assets/img/orcid.png" height="50" />
+  <img src="/assets/img/ORCID_full_logo.png" height="50" />
 </a>
 
 

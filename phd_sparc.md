@@ -26,7 +26,7 @@ These new space applications come with specific challenges: examples include rob
 The PhD positions aim to produce high-quality research and develop the robotic capabilities that address one or more of these challenges for the future activities mentioned above. The lists are not exhaustive, and additional PhD projects on space robotics can also be discussed.
 
 ## Supervision and Hosting Department
-You will be supervised by Dr Nikos Mavrakis, Assistant Professor at Department of Computer Science and Durham Space Research Centre (SPARC). His research includes robotic manipulation and grasping for space robotics, perception for satellites and planetary rovers, and spacecraft autonomy. He has extensive experience in space robotics for active debris removal through EPSRC funded projects, and as part of the NASA/ESA Mars Sample Return Mission at NASA Jet Propulsion Laboratory.  More info can be found here https://nikosmavrakis.github.io/ .
+You will be supervised by Dr Nikos Mavrakis, Assistant Professor at Department of Computer Science and Durham Space Research Centre (SPARC). His research includes robotic manipulation and grasping for space robotics, perception for satellites and planetary rovers, and spacecraft autonomy. He has extensive experience in space robotics for active debris removal through EPSRC funded projects, and as part of the NASA/ESA Mars Sample Return Mission at NASA Jet Propulsion Laboratory.  More info can be found [here](https://nikosmavrakis.github.io/).
 
 You will be hosted at the Department of Computer Science at Durham University.  The Department hosts well-equipped labs with on-site capabilities comprising vehicle-mounted sensors (LiDAR, radar, camera, GPS/IMU), drone operations, on/off-road robotics, high-precision geo-localisation, BCI/EEG bio-signal data collection, robotic arm manipulation, X-ray security imaging, virtual reality and on-demand wide-area surveillance video feeds.
 
@@ -40,14 +40,14 @@ The Department is also part of the newly established Durham Space Research Centr
 *	First class honours (or high 2.1 at undergraduate or equivalent Masters) degree in a field related to space robotics, such as Engineering, Mechatronics, Robotics, Computer Science, Aerospace or similar. (internationally: GPA 3.3+ or equivalent).
 *	Knowledge of modern programming languages (preferably Python, C++, MATLAB) and robotic simulation (e.g. Gazebo, CoppeliaSim, MuJoCo, Isaac Sim)
 *	Strong understanding of computing/engineering applications and a passion on solving problems in space engineering and robotics
-*	Excellent written and spoken communication skills in English, under the Durham University English language requirements (https://www.dur.ac.uk/study/international/entry-requirements/english-language-requirements/).
+*	Excellent written and spoken communication skills in English, under the [Durham University English language requirements](https://www.dur.ac.uk/study/international/entry-requirements/english-language-requirements/).
 *	Prior research or industrial experience in space technology and/or robotics is beneficial but not required
 
 ## How to Apply
-For more information, eligibility, and the application process please visit https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/
+For more information, eligibility, and the application process please visit [https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/](https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/)
 To have a pre-application discussion, please contact Dr Nikos Mavrakis at nikolaos.mavrakis@durham.ac.uk with an email subject “Fully funded PhD in Space Robotics”. In your email you should include a CV, transcripts of degrees, and a 1-page research proposal (including bibliography) that explains which challenge you wish to address and what topic you wish to apply it on. 
 
 ## Useful Links
-* SPARC : https://www.durham.ac.uk/research/institutes-and-centres/space-research-centre/
-* Department of Computer Science: https://www.durham.ac.uk/departments/academic/computer-science/
-* VIviD group: https://vivid.webspace.durham.ac.uk/
+* [SPARC](https://www.durham.ac.uk/research/institutes-and-centres/space-research-centre/)
+* [Department of Computer Science](https://www.durham.ac.uk/departments/academic/computer-science/)
+* [VIviD group](https://vivid.webspace.durham.ac.uk/)
