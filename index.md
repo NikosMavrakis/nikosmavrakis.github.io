@@ -16,7 +16,7 @@
 Welcome to my website (Under Construction)!
 
 
-<img src="/assets/img/pic_mavrakis.jpg" style="max-width:200px;"/>
+<img src="/assets/img/pic_mavrakis.jpg" align="right" style="max-width:200px;"/>
 
 
 <a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
