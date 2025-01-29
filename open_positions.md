@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fully Funded PhD position in Space Robotics
-permalink: /phd_sparc/
+title: Open Positions
+permalink: /open_positions/
 author: Nikos Mavrakis
 ---
 
