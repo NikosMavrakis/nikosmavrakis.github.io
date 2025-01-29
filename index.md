@@ -16,6 +16,8 @@
 Welcome to my website (Under Construction)!
 
 
+<img src="/assets/img/pic_mavrakis.jpg" style="max-width:400px;"/>
+
 
 <a href="https://scholar.google.com/citations?user=EPWOYFIAAAAJ&hl=en&oi=ao">
   <img src="/assets/img/scholar.png" height="50" />

@@ -5,8 +5,6 @@ permalink: /phd_sparc/
 author: Nikos Mavrakis
 ---
 
-# Fully Funded PhD position in Space Robotics
-
 ## Application Deadline: 24 March 2025
 
 ## Notes on Funding
