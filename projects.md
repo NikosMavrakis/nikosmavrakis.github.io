@@ -6,6 +6,7 @@ author: Nikos Mavrakis
 ---
 
 
+
 # Robotic Manipulation of Soft Bags 
 # The Royal Society Research Grants - RG\R1\251450
 
@@ -13,3 +14,4 @@ author: Nikos Mavrakis
 
 
 Lorem Ipsum
+
